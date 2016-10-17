@@ -47,4 +47,6 @@ void hello()
 	printf("vo here\n");
 	printf("%s\n", );
 	printf("hello\n", );
+	printf("new live\n", );
+
 }
