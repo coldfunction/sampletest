@@ -44,5 +44,6 @@ void quicksort(int *data, int left, int right)
 void hello()
 {
 	printf("master here\n");
+	printf("vo here\n");
 
 }
