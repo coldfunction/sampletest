@@ -46,4 +46,5 @@ void hello()
 	printf("master here\n");
 	printf("vo here\n");
 	printf("%s\n", );
+	printf("hello\n", );
 }
