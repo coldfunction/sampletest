@@ -2,6 +2,7 @@
  
  
 /**
+quicksort
  * @param
  * @param
  * @param
@@ -38,4 +39,10 @@ void quicksort(int *data, int left, int right)
 
 	quicksort(data, left, j-1);
 	quicksort(data, j+1, right);
+}
+
+void hello()
+{
+
+	
 }
