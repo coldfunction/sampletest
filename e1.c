@@ -43,6 +43,6 @@ void quicksort(int *data, int left, int right)
 
 void hello()
 {
-	printf();
+	printf("master here\n");
 
 }
