@@ -52,5 +52,6 @@ void hello()
 
 	printf("write comm\n" );
 	printf("sec comm @@\n" );
+	printf("third comm @@\n" );
 
 }
