@@ -49,4 +49,7 @@ void hello()
 	printf("hello\n", );
 	printf("new live\n", );
 
+
+	printf("write comm\n" );
+
 }
